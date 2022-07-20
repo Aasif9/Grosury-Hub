@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1028617373249",
+    "firebase_url": "https://grosury-eaa8a-default-rtdb.firebaseio.com",
+    "project_id": "grosury-eaa8a",
+    "storage_bucket": "grosury-eaa8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028617373249:android:8d11e54556aef4c8a6e8c0",
+        "android_client_info": {
+          "package_name": "com.example.grosury"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028617373249-hbipf5ksn557pbgtq6fpptj79ergnnmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR3trAy6AlPKm3qzihjJVs392tTgfCv_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028617373249-hbipf5ksn557pbgtq6fpptj79ergnnmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

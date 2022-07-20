@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable-v24/add_to_cart_textview_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable-v24/b1.xml" value="0.10462962962962963" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable-v24/ic_add.xml" value="0.24375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable-v24/ic_bookmark_black.xml" value="0.2390194075587334" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable-v24/ic_check_black.xml" value="0.2390194075587334" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable-v24/ic_email_black.xml" value="0.2390194075587334" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable-v24/ic_history_black.xml" value="0.2390194075587334" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable-v24/ic_home_black.xml" value="0.24375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable-v24/ic_minus.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable-v24/ic_person_black.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable-v24/ic_plus.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable-v24/ic_shopping_basket.xml" value="0.24375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable-v24/ic_shopping_cart_black.xml" value="0.24375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable-v24/ic_shopping_cart_white.xml" value="0.24375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable-v24/ic_user_edit.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable-v24/rounded_corner.xml" value="0.24375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable/add_to_cart_textview_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable/box.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable/category_textview_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable/ic_minus.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable/ic_plus.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/drawable/ic_shopping_basket.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/font/font.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/font/nunito.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.14280958721704395" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout-w936dp/activity_login.xml" value="0.167578125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/activity_buy.xml" value="0.2234375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/activity_category_wise_products.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/activity_firebase.xml" value="0.2234375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/activity_home_acitvity_details.xml" value="0.2234375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/activity_home_activity_details.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/activity_login.xml" value="0.2234375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/activity_my_cart.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/activity_order.xml" value="0.2234375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/activity_order_detail.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/activity_product_description.xml" value="0.2234375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/activity_product_detail.xml" value="0.2234375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/activity_product_list_detail.xml" value="0.2234375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/activity_product_list_item.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/activity_search_result.xml" value="0.2265625" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/activity_veg.xml" value="0.2234375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/besthorizontalscroll.xml" value="0.2234375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/content_home.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/grid_list_item.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/grid_recycler_view.xml" value="0.2234375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/grid_single.xml" value="0.16" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/icon_badge.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/list_item_cart.xml" value="0.4" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/list_order_detail.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/list_recent_products.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/listorder.xml" value="0.4" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/nav_header_home_page.xml" value="0.2234375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/slider_item.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/toolbar.xml" value="0.2234375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/layout/tophorizontalview.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/menu/home_drawer.xml" value="0.4" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Grosury/app/src/main/res/menu/menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
