@@ -29,7 +29,7 @@ public class MainAdapter extends FirebaseRecyclerAdapter <MainModel,MainAdapter.
 
     /**
      * Initialize a {@link RecyclerView.Adapter} that listens to a Firebase query. See
-     * {@link FirebaseRecyclerOptions} for configuration options.
+     * {@link FirebaseRecyclerOptions} for configuration option.
      *
      * @param options
      */
@@ -67,11 +67,7 @@ public class MainAdapter extends FirebaseRecyclerAdapter <MainModel,MainAdapter.
         TextView name,course,email;
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
-        /*
-            images=itemView.findViewById(R.id.product_img);
-            name=itemView.findViewById(R.id.product_name);
-            course=itemView.findViewById(R.id.coursetext);
-            email=itemView.findViewById(R.id.emailtext);*/
+      
         }
     }
 }
