@@ -69,8 +69,7 @@ public class ProductListDetail extends AppCompatActivity {
         productDetailList.add(new ProductDetail(R.drawable.bakery,"Mango",100,15,"1"));
         productDetailList.add(new ProductDetail(R.drawable.oilspices,"Tomato",520,10,"1"));
         productDetailList.add(new ProductDetail(R.drawable.sugargrains,"Apple",500,20,"1"));
-        productDetailList.add(new ProductDetail(R.drawable.trop,"Apple",150,30,"1"));
-        productDetailList.add(new ProductDetail(R.drawable.trop,"Apple",250,30,"1"));
+       
 
         recyclerDetailView=findViewById(R.id.recyclerDetailView);
         ProductDetailAdapter productDetailAdapter=new ProductDetailAdapter(this,productDetailList);
